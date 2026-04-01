@@ -29,4 +29,4 @@ I’m a 7th-semester Systems Engineering student with a **97% average**, driven 
 
 ---
 
-📫 **How to reach me:** [LinkedIn](www.linkedin.com/in/juan-ignacio-saenz-a381a1394) | <contacto@saenz.dev>
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/juan-ignacio-saenz-a381a1394) | <contacto@saenz.dev>

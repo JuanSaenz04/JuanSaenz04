@@ -1,4 +1,4 @@
-# Hi there, I'm Juani 👋 
+# Hi there, I'm Juan Ignacio 👋 
 
 ### 🚀 Systems Engineering Student & Backend Enthusiast
 I’m a 7th-semester Systems Engineering student with a **97% average**, driven by a "foundation-first" mindset. I don't just want to make software run; I want to understand how it's routed, secured, and optimized under the hood.
